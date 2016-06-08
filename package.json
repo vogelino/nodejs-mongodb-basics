@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-mongodb-basics",
+  "version": "1.0.0",
+  "description": "Learning how to use mongodb with node.js",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vogelino/nodejs-mongodb-basics.git"
+  },
+  "keywords": [
+    "mongodb",
+    "nodejs",
+    "mongoose",
+    "express"
+  ],
+  "author": "Lucas Vogel <contact@vogelino.com> (http://vogelino.com/)",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/vogelino/nodejs-mongodb-basics/issues"
+  },
+  "homepage": "https://github.com/vogelino/nodejs-mongodb-basics#readme"
+}
