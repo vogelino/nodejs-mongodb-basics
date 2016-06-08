@@ -261,4 +261,4 @@ Javascript file that will be executed at every mongo-shell start
 - [MongoDB Tutorial](https://youtu.be/xDCKcNBFsuI?list=PLGLfVvz_LVvSpxyVx5XcprEgvhJ1BzruD) by [Derek Banas](https://www.youtube.com/channel/UCwRXb5dUK4cvsHbx-rGzSgw) @newthinktank
 
 ## License
-- [WTFPL](https://github.com/vogelino/nodejs-mongodb-basics/blob/master/LICENCE) - [WTFPL website](http://www.wtfpl.net/)
+- [WTFPL](https://github.com/vogelino/nodejs-mongodb-basics/blob/master/LICENSE) - [WTFPL website](http://www.wtfpl.net/)
